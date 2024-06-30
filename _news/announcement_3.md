@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-3-20
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I am hornored to recieved the Graduate Conferences Fellowship from Andlinger Center for Energy and the Environment 2024.
