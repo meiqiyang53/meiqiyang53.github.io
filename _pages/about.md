@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:  Transforming wastewater into resources with advanced materials and machine learning.
 
 profile:
   align: right
@@ -18,8 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. candidate in the Department of Civil and Environmental Engineering and the Andlinger Center for Energy and the Environment at Princeton University. I am fortunate to be supervised by <a href="https://cee.princeton.edu/people/zhiyong-jason-ren">Dr. Jason Ren</a> at <a href="https://ren.princeton.edu/">Princeton WET Lab</a>. I am also closely work with <a href="https://www.bingnano.com/">Dr. Liangbin Hu</a> at University of Maryland. Before joining Princeton, I obtained my M.S. degree from Yale University, and worked as full-time research assistant with Drs. <a href="https://elimelechlab.yale.edu/">Menachem Elimelech</a> and <a href="https://pecdevice.yale.edu/">Shu Hu</a>. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My current research focuses on designing advanced materials and developing models to enhance the efficiency and reduce the cost of resource recovery from wastewater through data-driven modeling and advanced machine learning techniques. I aim to leverage these innovative approaches to address critical environmental challenges and contribute to sustainable resource management.
