@@ -7,6 +7,16 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+- ENE321-CEE321_F2021 Resource Recovery for a Circular Economy, Teaching Assistant, 2021 Fall
 
-Organize your courses by years, topics, or universities, however you like!
+- Linda Zeng, The Harker Upper School, California, High School Student, June - July 2024
+
+- Christopher Li, Princeton University, Sophomore, Feb. - May 2024
+
+- Ryan Neapole, Princeton University, Undergrad Thesis, now at Stanford University, Feb. - May 2023
+
+- Qixiang Feng, Princeton International School of Mathematics and Science, High School Student, June - Aug. 2023
+
+- Siyu (Quinn) Li, Dwight-Englewood School, High School Student, now at University of Pennsylvania, 2022
+
+- Gouri Krishnan, King School in Stamford, High School Student, now at Columbia University, 2019
