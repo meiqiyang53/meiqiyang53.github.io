@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Our study "Machine Learning in Environmental Research: Common Pitfalls and Best Practices" had been selected as supplementary art of Environmental Science & Technology.
+I am honor to present my study "Machine learning for polymer design to enhance pervaporation-based organic recovery" at American Chemical Society in New Orlean.
+
