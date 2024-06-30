@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office 020</p>
-    <p>86 Olden Street</p>
+    <p>Office 020,</p>
+    <p>86 Olden Street,</p>
     <p>Princeton, NJ 08540</p>
 
 news: true # includes a list of news items
