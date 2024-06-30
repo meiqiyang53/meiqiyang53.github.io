@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am hornored to recieved the Graduate Conferences Fellowship from Andlinger Center for Energy and the Environment 2024.
+Our study "Machine Learning in Environmental Research: Common Pitfalls and Best Practices" had been selected as supplementary art of Environmental Science & Technology.
