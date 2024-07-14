@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: I have been acted as RA for "Resource Recovery for a Circular Economy" and mentored several undergraduate thesis and high school interns.
 nav: true
 nav_order: 6
 ---
