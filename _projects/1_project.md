@@ -9,11 +9,11 @@ related_publications: true
 ---
 
 • Synthesize novel 3D cellulose crystallizers with tunable porosity and surface properties, which achieves a state-of-the-art evaporation rate as high as 9.8 kg m−2 h−1, which is three orders of magnitute than traditional evaporation pond;
+
 • Achieve Li selectivity among other co-exist ions by orders of magnitude;
+
 • Uncover the mechanism of crystallization from both theory and simulation.
 
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page
