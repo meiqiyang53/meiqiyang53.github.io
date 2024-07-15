@@ -3,10 +3,11 @@ layout: page
 title: Highly Selective Electrochemical Nitrate to Ammonia Conversion by Dispersed Ru in a Multielement Alloy Catalyst
 description: The first study that investigates the synergistic effect between multiple reaction sites on multi-elemental alloy nanoparticles for effective ENR reaction
 img: assets/img/background3.jpg
-redirect: https://unsplash.com
 importance: 3
 category: work
+giscus_comments: true
 ---
+
 Electrochemical reduction of nitrate to ammonia (NH3) converts an environmental pollutant to a critical nutrient. However, current electrochemical nitrate reduction operations based on monometallic and bimetallic catalysts are limited in NH3 selectivity and catalyst stability, especially in acidic environments. Meanwhile, catalysts with dispersed active sites generally exhibit a higher atomic utilization and distinct activity. Herein, we report a multielement alloy nanoparticle catalyst with dispersed Ru (Ru-MEA) with other synergistic components (Cu, Pd, Pt). Density functional theory elucidated the synergy effect of Ru-MEA than Ru, where a better reactivity (NH3 partial current density of −50.8 mA cm−2) and high NH3 faradaic efficiency (93.5%) is achieved in industrially relevant acidic wastewater. In addition, the Ru- MEA catalyst showed good stability (e.g., 19.0% decay in FENH3 in three hours). This work provides a potential systematic and efficient catalyst discovery process that integrates a data-guided catalyst design and novel catalyst synthesis for a range of applications.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
