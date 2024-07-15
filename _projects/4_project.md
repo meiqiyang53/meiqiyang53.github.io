@@ -18,14 +18,6 @@ traction of lithium from oil and shale gas brines with low Li concentration;
 
 • Uncover the mechanism of crystallization from both theory and simulation.
 
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}

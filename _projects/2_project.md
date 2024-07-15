@@ -11,13 +11,6 @@ giscus_comments: true
 Pervaporation (PV) is an effective membrane separation process for organic dehydration, recovery, and upgrading. However, it is crucial to improve membrane materials beyond the current permeability-selectivity trade-off. In this research, we introduce machine learning (ML) models to identify high-potential polymers, greatly improving the efficiency and reducing cost compared to conventional trial-and-error approach. We utilized the largest PV data set to date and incorporated polymer fingerprints and features, including membrane structure, operating conditions, and solute properties. Dimensionality reduction, missing data treatment, seed randomness, and data leakage management were employed to ensure model robustness. The optimized LightGBM models achieved RMSE of 0.447 and 0.360 for separation factor and total flux, respectively (logarithmic scale). Screening approximately 1 million hypothetical polymers with ML models resulted in identifying polymers with a predicted permeation separation index >30 and synthetic accessibility score <3.7 for acetic acid extraction. This study demonstrates the promise of ML to accelerate tailored membrane designs.
 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/background2.jpg
-    ---
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/b1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
