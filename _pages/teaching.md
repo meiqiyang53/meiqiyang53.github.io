@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: I have been acted as RA for "Resource Recovery for a Circular Economy" and mentored several undergraduate thesis and high school interns.
+description: I have been acted as an RA for "Resource Recovery for a Circular Economy" and mentored several undergraduate thesis and high school interns.
 nav: true
 nav_order: 6
 ---
