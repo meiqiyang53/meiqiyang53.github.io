@@ -28,7 +28,7 @@ self-concentrating crystallization method for the selective extraction of lithiu
 
 </div>
 <div class="caption">
-     On the left, Schematic of the 3D spatial crystallization process. At the bottom position (Bottom), mixed Li and Na ions are carried upward via capillary flow. At the middle position (Middle), NaCl saturates and crystallizes, while Li species continue to move upward with the water flow. At the top position (Top), Li ions precipitate when the saline water completely evaporates. Middle, The Li/Na ratio increased along the 3D fibre crystallizer, with Li concentrated by >39 times at the top when using brine and >675 times at the top when using seawater.
+     On the left, Schematic of the 3D spatial crystallization process. At the bottom position (Bottom), mixed Li and Na ions are carried upward via capillary flow. At the middle position (Middle), NaCl saturates and crystallizes, while Li species continue to move upward with the water flow. At the top position (Top), Li ions precipitate when the saline water completely evaporates. Right, The Li/Na ratio increased along the 3D fibre crystallizer, with Li concentrated by >39 times at the top when using brine and >675 times at the top when using seawater.
 </div>
 
 <div class="row">
