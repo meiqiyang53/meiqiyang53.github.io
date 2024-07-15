@@ -1,18 +1,15 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Machine Learning for Polymer Design to Enhance Pervaporation-Based Organic Recovery
+description: Developed a robust ML model for the first time that can facilitate the screening of polymers for PV membranes.
+img: assets/img/background2.jpg
 importance: 2
 category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Pervaporation (PV) is an effective membrane separation process for organic dehydration, recovery, and upgrading. However, it is crucial to improve membrane materials beyond the current permeability-selectivity trade-off. In this research, we introduce machine learning (ML) models to identify high-potential polymers, greatly improving the efficiency and reducing cost compared to conventional trial-and-error approach. We utilized the largest PV data set to date and incorporated polymer fingerprints and features, including membrane structure, operating conditions, and solute properties. Dimensionality reduction, missing data treatment, seed randomness, and data leakage management were employed to ensure model robustness. The optimized LightGBM models achieved RMSE of 0.447 and 0.360 for separation factor and total flux, respectively (logarithmic scale). Screening approximately 1 million hypothetical polymers with ML models resulted in identifying polymers with a predicted permeation separation index >30 and synthetic accessibility score <3.7 for acetic acid extraction. This study demonstrates the promise of ML to accelerate tailored membrane designs.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page
