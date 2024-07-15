@@ -28,7 +28,7 @@ self-concentrating crystallization method for the selective extraction of lithiu
 
 </div>
 <div class="caption">
-     On the left, Schematic of the 3D spatial crystallization process. At the bottom position (Bottom), mixed Li and Na ions are carried upward via capillary flow. At the middle position (Middle), NaCl saturates and crystallizes, while Li species continue to move upward with the water flow. At the top position (Top), Li ions precipitate when the saline water completely evaporates. Middle, The Li/Na ratio increased along the 3D fibre crystallizer, with Li concentrated by >39 times at the top when using brine and >675 times at the top when using seawater. Right, Schematic of the geometry and parameters considered in the theoretical model. Prediction of the Li ion concentration as a function of the position inside the crystallizer and model prediction of the Li/Na ratio.
+     On the left, Schematic of the 3D spatial crystallization process. At the bottom position (Bottom), mixed Li and Na ions are carried upward via capillary flow. At the middle position (Middle), NaCl saturates and crystallizes, while Li species continue to move upward with the water flow. At the top position (Top), Li ions precipitate when the saline water completely evaporates. Middle, The Li/Na ratio increased along the 3D fibre crystallizer, with Li concentrated by >39 times at the top when using brine and >675 times at the top when using seawater.
 </div>
 
 <div class="row">
@@ -40,9 +40,7 @@ self-concentrating crystallization method for the selective extraction of lithiu
     Li is concentrated at the centre of the fibre crystallizer. a, Schematic showing that Li is concentrated inside the fibre crystallizer, surrounded by the Na-rich salt shell. b, SEM image of the cross-section. c, Na elemental map from the EDX, showing a circular shape surrounding the crystallizer structure. d, Li elemental map from the EDX, showing a dispensed distribution across the crystallizer’s cross-section. The Li elementary map was calculated by deducting the Na map from the Cl map. e, SEM image of the area between the fibres and salt crystals, pink-boxed in b. f, Na elemental map from the EDX, showing that only the salt crystals emitted clear Na spectra, while the fibre area showed no Na signal. g, Li elemental map from the EDX, showing that Li spectra were widely detected over the fibre areas, with the weakest signal at the bottom-right corner, where the NaCl crystals are located. h, Schematic showing that, in the centre Li-rich part, cubic NaCl crystals (blue) act as a core and LiCl form surrounding amorphous salt (pink). i, S/TEM image of the salt crystal sampled from the centre. j, TEM image of the blue-boxed area in i, showing a clear boundary between the two types of salt crystal. k, Layered EELS map confirmed two different elemental components aside the boundary. l–n, Cl (l), Na (m) and Li (n) elemental map from EELS. Cl covered the whole scope, and Na distributed only at the right side of the boundary, while Li distributed mostly at the left side.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
