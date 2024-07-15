@@ -1,17 +1,23 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Selective Li Extraction via Material Engineering and Surface Treatment
+description: 
 img:
-importance: 3
+importance: 4
 category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+• Design an efficient and self-concentrating crystallization method for the selective ex-
+traction of lithium from oil and shale gas brines with low Li concentration;
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+• Synthesize 3D fiber crystallizers with tunable porosity and surface properties
+
+• Develop flow rate model and evaporation model
+
+• Achieve Li selectivity among other co-exist ions by orders of magnitude;
+
+• Uncover the mechanism of crystallization from both theory and simulation.
+
 
     ---
     layout: page
