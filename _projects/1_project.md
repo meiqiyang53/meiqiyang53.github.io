@@ -25,9 +25,7 @@ self-concentrating crystallization method for the selective extraction of lithiu
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/a3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-<!--     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div> -->
+
 </div>
 <div class="caption">
      On the left, Schematic of the 3D spatial crystallization process. At the bottom position (Bottom), mixed Li and Na ions are carried upward via capillary flow. At the middle position (Middle), NaCl saturates and crystallizes, while Li species continue to move upward with the water flow. At the top position (Top), Li ions precipitate when the saline water completely evaporates. Middle, The Li/Na ratio increased along the 3D fibre crystallizer, with Li concentrated by >39 times at the top when using brine and >675 times at the top when using seawater. Right, Schematic of the geometry and parameters considered in the theoretical model. Prediction of the Li ion concentration as a function of the position inside the crystallizer and model prediction of the Li/Na ratio.
@@ -50,19 +48,12 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/a4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <!-- <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div> -->
+
 </div>
 <div class="caption">
     Practical feasibility of the spatial crystallization system using simulated seawater. a, Photo of a prototype Li extraction array containing 10 × 10 3D spatial crystallizers. Salt crystals are shown on blue cellulose fibre crystallizers. b, Li salt recovery by the wash–soak method. After removing the salt shell, the crystallizer was dipped into water to wash off and generate a Na-rich solution. Subsequently, the crystallizer was soaked in clean water bath for Li dissolution and recovery.
 </div>
 
-<!-- The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
- -->
 {% raw %}
 
 ```html
