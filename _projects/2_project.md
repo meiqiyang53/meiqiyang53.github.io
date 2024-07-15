@@ -26,6 +26,16 @@ Pervaporation (PV) is an effective membrane separation process for organic dehyd
 <div class="caption">
     Workflow of ML-model-assisted polymer screening. (A) Prediction model development using the MFF: Generation of MFF from the simplified molecular input line system (SMILE) expression of polymers’ repeating units. For model development, different model processing methods are involved, including missing data management (MDM), DLM, and PCA. (B) The developed ML models are then implemented for high-throughput screening of hypothetical polymers in the PI1M data set (N = 995,799) with promising acetic acid extraction performance; the evaluation metrics include similarity score, PSI, and SA score.
 </div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/b7.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    To avoid data leakage due to literature data associated with similar experimental information, we developed the first DLM-based data segmentation algorithm to treat multiple data points from the same publication as a bundle in the data splitting, so they were not split into different datasets. DLM ensures that the model makes truthful predictions for unfamiliar situations, such as new membrane materials and operating conditions.
+</div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/b2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
