@@ -15,7 +15,7 @@ Pervaporation (PV) is an effective membrane separation process for organic dehyd
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/background2.jpg
     ---
 
 <div class="row">
