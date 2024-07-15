@@ -7,12 +7,8 @@ importance: 1
 category: work
 related_publications: true
 ---
-
-• Synthesize novel 3D cellulose crystallizers with tunable porosity and surface properties, which achieves a state-of-the-art evaporation rate as high as 9.8 kg m−2 h−1, which is three orders of magnitute than traditional evaporation pond;
-
-• Achieve Li selectivity among other co-exist ions by orders of magnitude;
-
-• Uncover the mechanism of crystallization from both theory and simulation.
+Limited lithium supply is hindering the global transformation towards electrification and decarbonization. Current lithium mining can be energy, chemical and land intensive. Here we present an efficient and
+self-concentrating crystallization method for the selective extraction of lithium from both brine and seawater. The sequential and separable crystallization of cation species with different concentrations and solubilities was enabled by a twisted and slender 3D porous natural cellulose fibre structure via capillary and evaporative flows. The process exhibited an evaporation rate as high as 9.8 kg m−2 h−1, and it selectively concentrated lithium by orders of magnitude. The composition and spatial distribution of crystals were characterized, and a transport model deciphered the ion re-distribution process in situ. We also demonstrated system scalability via a 100-crystallizer array.
 
 
     ---
@@ -34,8 +30,9 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+     On the left, Schematic of the 3D spatial crystallization process. At the bottom position (Bottom), mixed Li and Na ions are carried upward via capillary flow. At the middle position (Middle), NaCl saturates and crystallizes, while Li species continue to move upward with the water flow. At the top position (Top), Li ions precipitate when the saline water completely evaporates. Middle, The Li/Na ratio increased along the 3D fibre crystallizer, with Li concentrated by >39 times at the top when using brine and >675 times at the top when using seawater. Right, Schematic of the geometry and parameters considered in the theoretical model. Prediction of the Li ion concentration as a function of the position inside the crystallizer and model prediction of the Li/Na ratio.
 </div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
