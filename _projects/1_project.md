@@ -1,16 +1,17 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Spatially separated crystallization for selective lithium extraction from saline water
+description: Design an efficient and self-concentrating crystallization method for the selective extraction of lithium from both brines and seawater via material engineering and surface treatment;
+img: assets/img/background1.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+• Synthesize novel 3D cellulose crystallizers with tunable porosity and surface properties, which achieves a state-of-the-art evaporation rate as high as 9.8 kg m−2 h−1, which is three orders of magnitute than traditional evaporation pond;
+• Achieve Li selectivity among other co-exist ions by orders of magnitude;
+• Uncover the mechanism of crystallization from both theory and simulation.
+
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
@@ -18,7 +19,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/background1.jpg
     ---
 
 <div class="row">
