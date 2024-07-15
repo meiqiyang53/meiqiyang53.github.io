@@ -8,15 +8,7 @@ category: fun
 ---
 
 
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+I have developed evaporation rate model for environmental conditions including temperature, relative humidity, wind speed, and solar radiation based on energy balance at water-air interface for both 2D and 3D scenarios.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
