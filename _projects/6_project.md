@@ -1,13 +1,14 @@
 ---
 layout: page
 title: Advancing Environmental Studies with a Specialized Large Language Model (LLM)
-description: Develop domain specific LLM for environmental-related studies
+description: Develop domain-specific LLM for environmental-related studies
 img: assets/img/background6.jpg
 importance: 6
 category: fun
 ---
+We have discussed the pros and cons about ChatGPT in Environmental Research.
 
-We have evaluated the performance of benchmarked LLMs on answering Environmental-domain questions and develop own domain specific LLM models.
+As following work, We try to evaluate the performance of benchmarked LLMs on answering Environmental-domain questions and develop own domain-specific LLM models using textbooks.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
