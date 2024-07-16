@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Highly Selective Electrochemical Nitrate to Ammonia Conversion by Dispersed Ru in a Multielement Alloy Catalyst
-description: The first study that investigates the synergistic effect between multiple reaction sites on multi-elemental alloy nanoparticles for effective ENR reaction
+description: The first study that investigates the synergistic effect between multiple reaction sites on multi-elemental alloy nanoparticles for effective ENR reaction.
 img: assets/img/background3.jpg
 importance: 3
 category: work
