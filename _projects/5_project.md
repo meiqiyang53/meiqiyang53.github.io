@@ -53,7 +53,7 @@ We also developed evaporation model based on 3D evaporator.
     </div>
 </div>
 
-Please read more in our work {% zheng2022upscaling %}.
+Please read more in our work {% cite zheng2022upscaling %}.
 
 {% raw %}
 
