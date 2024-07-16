@@ -5,7 +5,8 @@ description: Design an efficient and self-concentrating crystallization method f
 img: assets/img/background1.jpg
 importance: 1
 category: work
-related_publications: chen2023spatially
+related_publications: true
+
 ---
 Limited lithium supply is hindering the global transformation towards electrification and decarbonization. Current lithium mining can be energy, chemical and land intensive. Here we present an efficient and self-concentrating crystallization method for the selective extraction of lithium from both brine and seawater. The sequential and separable crystallization of cation species with different concentrations and solubilities was enabled by a twisted and slender 3D porous natural cellulose fibre structure via capillary and evaporative flows. The process exhibited an evaporation rate as high as 9.8 kg m−2 h−1, and it selectively concentrated lithium by orders of magnitude. The composition and spatial distribution of crystals were characterized, and a transport model deciphered the ion re-distribution process in situ. We also demonstrated system scalability via a 100-crystallizer array.
 
@@ -37,6 +38,8 @@ Limited lithium supply is hindering the global transformation towards electrific
 <div class="caption">
     Practical feasibility of the spatial crystallization system using simulated seawater. a, Photo of a prototype Li extraction array containing 10 × 10 3D spatial crystallizers. Salt crystals are shown on blue cellulose fibre crystallizers. b, Li salt recovery by the wash–soak method. After removing the salt shell, the crystallizer was dipped into water to wash off and generate a Na-rich solution. Subsequently, the crystallizer was soaked in clean water bath for Li dissolution and recovery.
 </div>
+
+Please read more in our work {% chen2023spatially %}.
 
 {% raw %}
 
