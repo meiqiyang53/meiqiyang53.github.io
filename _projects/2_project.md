@@ -38,6 +38,15 @@ Pervaporation (PV) is an effective membrane separation process for organic dehyd
     Model development and prediction results for the separation factor. (A) Primary seeds assessment using R2, MAE, and RMSE based on the testing data set using CBR. (B) Box plots showing performance (RMSE) comparison between RFR, ETR, CBR, and LGBMR using DLMbased data segmentation and a predefined CV approach based on the training data set (seed 370). (C) Comparison between reported and predicted separation factor (logarithmic) data based on the testing data set using the optimal LGBMR model; note that data from the same (anonymous) study are shown in the same mark. Prediction performance using the testing data set before and after optimization is also displayed.
 </div>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/26.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    (D–H) Model interpretation by analyzing the contribution of features using SHAP for separation factor prediction. SHAP summary plot of (D) features’ contribution, (E) organics’ molar volume, (F) mass ratio, (G) PC1, and (H) PC2.
+</div>
+
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
