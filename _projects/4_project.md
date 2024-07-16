@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Selective Li Extraction via Material Engineering and Surface Treatment
-description: Designing efficient and selective lithium extraction process
+description: Enhancing lithium extraction performance through material engineering and process modeling.
 img: assets/img/background4.jpg
 importance: 4
 category: fun
