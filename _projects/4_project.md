@@ -4,7 +4,7 @@ title: Selective Li Extraction via Material Engineering and Surface Treatment
 description: Enhancing lithium extraction performance through material engineering and process modeling.
 img: assets/img/background4.jpg
 importance: 4
-category: fun
+category: work
 ---
 
 Lithium is a critical mineral with a rapidly growing global market, and oil field brines are recognized as potential game changers for lithium supply. However, current extraction techniques, such as evaporation ponds and direct lithium extraction methods, face challenges with low lithium concentrations and limited selectivity between lithium and other monovalent ions, making lithium extraction from oilfield brines inefficient and discouraging. In this study, we demonstrate a novel evaporation-based lithium extraction method using a twisted cellulose fiber crystallizer, which achieves evaporation rates three orders of magnitude higher (221 vs. 0.2 kg h-1 m-2) than traditional evaporation ponds, significantly reducing processing time to a few hours and saving land space. During the process, lithium concentration is enriched by 544 times, from 0.01 wt.% to 4.3 wt.%. Additionally, this process demonstrates high selectivity between Li+ and Na+ ions (~3523), presenting a potential game changer for lithium extraction from low-concentration brines.
