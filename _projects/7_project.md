@@ -4,7 +4,8 @@ title: Functional Coating by Atomic Layer Deposition
 description: Designing electrochromic material, ion-selective membrane, protective coating using Atomic Layer Deposition.
 img: assets/img/background7.jpg
 importance: 7
-category: fun
+category: work
+related_publications:zhao2021coating,zhou2021selective,shen2022tuning,shen2023multicolor
 ---
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
