@@ -16,7 +16,7 @@ As following work, We try to evaluate the performance of benchmarked LLMs on ans
         {% include figure.liquid path="assets/img/background6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
+Please read more in our work {% cite zhu2023chatgpt %}.
 
 {% raw %}
 
