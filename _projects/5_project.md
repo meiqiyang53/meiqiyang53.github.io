@@ -4,7 +4,7 @@ title: Evaporation Model Development for 2D and 3D evaporators
 description: Develop precise evaporation model with environmental conditions using energy balance model.
 img: assets/img/background5.jpg
 importance: 5
-category: fun
+category: work
 related_publications: true
 ---
 
