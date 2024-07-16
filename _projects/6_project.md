@@ -4,7 +4,7 @@ title: Advancing Environmental Studies with a Specialized Large Language Model (
 description: Develop domain-specific LLM for environmental-related studies
 img: assets/img/background6.jpg
 importance: 6
-category: work
+category: fun
 related_publications: true
 ---
 We have discussed the pros and cons about ChatGPT in Environmental Research.

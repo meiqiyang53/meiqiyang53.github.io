@@ -4,7 +4,7 @@ title: Functional Coating by Atomic Layer Deposition
 description: Designing electrochromic material, ion-selective membrane, protective coating using Atomic Layer Deposition.
 img: assets/img/background7.jpg
 importance: 7
-category: work
+category: fun
 related_publications: true
 ---
 <div class="row justify-content-sm-center">
@@ -41,7 +41,7 @@ Stable photoelectrochemical solar fuel production requires protective coatings t
     </div>
 </div>
 
-Please read more in our work {% zhao2021coating, zhou2021selective, shen2022tuning, shen2023multicolor %}.
+Please read more in our work {% cite zhao2021coating, zhou2021selective, shen2022tuning, shen2023multicolor %}.
 
 {% raw %}
 
