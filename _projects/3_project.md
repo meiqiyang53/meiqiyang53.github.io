@@ -5,7 +5,7 @@ description: The first study that investigates the synergistic effect between mu
 img: assets/img/background3.jpg
 importance: 3
 category: work
-related_publications: yang2023highly
+related_publications: true
 ---
 
 Electrochemical reduction of nitrate to ammonia (NH3) converts an environmental pollutant to a critical nutrient. However, current electrochemical nitrate reduction operations based on monometallic and bimetallic catalysts are limited in NH3 selectivity and catalyst stability, especially in acidic environments. Meanwhile, catalysts with dispersed active sites generally exhibit a higher atomic utilization and distinct activity. Herein, we report a multielement alloy nanoparticle catalyst with dispersed Ru (Ru-MEA) with other synergistic components (Cu, Pd, Pt). Density functional theory elucidated the synergy effect of Ru-MEA than Ru, where a better reactivity (NH3 partial current density of −50.8 mA cm−2) and high NH3 faradaic efficiency (93.5%) is achieved in industrially relevant acidic wastewater. In addition, the Ru- MEA catalyst showed good stability (e.g., 19.0% decay in FENH3 in three hours). This work provides a potential systematic and efficient catalyst discovery process that integrates a data-guided catalyst design and novel catalyst synthesis for a range of applications.
@@ -47,6 +47,8 @@ Electrochemical reduction of nitrate to ammonia (NH3) converts an environmental 
 <div class="caption">
     Key performance comparisons among different catalysts (C control, Ru, and Ru-MEA) in 0.5 M Na2SO4 containing 50 mM NO3−, pH2.5: (a) Linear sweep voltammetry (scan rate 5 mV s−1). (b) FENO2− and FENH3 at −1.13 V vs RHE. (c) NH3 yield (g h−1 cm−2) at −1.13 V vs RHE. Electrocatalytic performance of Ru-MEA in 0.5 M Na2SO4 containing 50 mM NaNO3, pH 2.5 at different applied potentials: (d) FENH3. (e) Selectivity toward NH3 and NO2−. (f) NH3 yield (g h−1 cm−2). Error bars indicate the standard deviation of the FE calculation from at least three independent samples. (g) FENH3 of Ru-MEA catalyst with varying applied potentials and NO3− concentrations (10, 50, and 100 mM NO3−) in moderate acidic media (pH 2.5).
 </div>
+
+Please read more in our work {% yang2023highly %}.
 
 {% raw %}
 
