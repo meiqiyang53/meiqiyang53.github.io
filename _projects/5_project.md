@@ -5,7 +5,7 @@ description: Develop precise evaporation model with environmental conditions usi
 img: assets/img/background5.jpg
 importance: 5
 category: work
-related_publications: zheng2022upscaling
+related_publications: true
 ---
 
 
@@ -52,6 +52,8 @@ We also developed evaporation model based on 3D evaporator.
         {% include figure.liquid path="assets/img/e5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+Please read more in our work {% zheng2022upscaling %}.
 
 {% raw %}
 
