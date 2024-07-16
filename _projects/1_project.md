@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Spatially separated crystallization for selective lithium extraction from saline water
-description: Design an efficient and self-concentrating crystallization method for the selective extraction of lithium from both brines and seawater via material engineering and surface treatment;
+description: Design an efficient and self-concentrating crystallization method for the selective extraction of lithium from both brines and seawater;
 img: assets/img/background1.jpg
 importance: 1
 category: work
