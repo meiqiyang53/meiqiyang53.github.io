@@ -66,7 +66,7 @@ Pervaporation (PV) is an effective membrane separation process for organic dehyd
     Evaluation of the synthetic accessibility and permeation separation index of correlated polymers in the PI1M data set, where “A” indicate polymerization points.
 </div>
 
-Please read more in our work {% cite yang2024machine, yang2023predicting %}.
+Please read more in our work {% cite yang2024machine, cite yang2023predicting %}.
 
 {% raw %}
 
