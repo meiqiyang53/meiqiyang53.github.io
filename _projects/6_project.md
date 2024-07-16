@@ -22,7 +22,6 @@ Please read more in our work {% cite zhu2023chatgpt %}.
 {% raw %}
 
 ```html
-
 ```
 
 {% endraw %}
