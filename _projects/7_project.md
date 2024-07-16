@@ -41,7 +41,7 @@ Stable photoelectrochemical solar fuel production requires protective coatings t
     </div>
 </div>
 
-Please read more in our work {% cite zhao2021coating, zhou2021selective, shen2022tuning, shen2023multicolor %}.
+Please read more in our work {% cite zhao2021coating %}, {% cite zhou2021selective %}, {% cite shen2022tuning %}, and {% cite shen2023multicolor %}.
 
 {% raw %}
 
