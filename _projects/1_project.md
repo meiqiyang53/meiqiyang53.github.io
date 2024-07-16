@@ -39,7 +39,7 @@ Limited lithium supply is hindering the global transformation towards electrific
     Practical feasibility of the spatial crystallization system using simulated seawater. a, Photo of a prototype Li extraction array containing 10 × 10 3D spatial crystallizers. Salt crystals are shown on blue cellulose fibre crystallizers. b, Li salt recovery by the wash–soak method. After removing the salt shell, the crystallizer was dipped into water to wash off and generate a Na-rich solution. Subsequently, the crystallizer was soaked in clean water bath for Li dissolution and recovery.
 </div>
 
-Please read more in our work {% chen2023spatially %}.
+Please read more in our work {% cite chen2023spatially %}.
 
 {% raw %}
 

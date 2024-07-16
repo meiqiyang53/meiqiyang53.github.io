@@ -48,7 +48,7 @@ Electrochemical reduction of nitrate to ammonia (NH3) converts an environmental 
     Key performance comparisons among different catalysts (C control, Ru, and Ru-MEA) in 0.5 M Na2SO4 containing 50 mM NO3−, pH2.5: (a) Linear sweep voltammetry (scan rate 5 mV s−1). (b) FENO2− and FENH3 at −1.13 V vs RHE. (c) NH3 yield (g h−1 cm−2) at −1.13 V vs RHE. Electrocatalytic performance of Ru-MEA in 0.5 M Na2SO4 containing 50 mM NaNO3, pH 2.5 at different applied potentials: (d) FENH3. (e) Selectivity toward NH3 and NO2−. (f) NH3 yield (g h−1 cm−2). Error bars indicate the standard deviation of the FE calculation from at least three independent samples. (g) FENH3 of Ru-MEA catalyst with varying applied potentials and NO3− concentrations (10, 50, and 100 mM NO3−) in moderate acidic media (pH 2.5).
 </div>
 
-Please read more in our work {% yang2023highly %}.
+Please read more in our work {% cite yang2023highly %}.
 
 {% raw %}
 
