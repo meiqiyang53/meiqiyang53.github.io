@@ -5,7 +5,7 @@ description: Designing electrochromic material, ion-selective membrane, protecti
 img: assets/img/background7.jpg
 importance: 7
 category: work
-related_publications: zhao2021coating,zhou2021selective,shen2022tuning,shen2023multicolor
+related_publications: true
 ---
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
@@ -40,6 +40,9 @@ Stable photoelectrochemical solar fuel production requires protective coatings t
         {% include figure.liquid path="assets/img/89.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+Please read more in our work {% zhao2021coating, zhou2021selective, shen2022tuning, shen2023multicolor %}.
+
 {% raw %}
 
 ```html
