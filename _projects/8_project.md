@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Leveraging Wood Chemistry for High-Performance Selenium Recovery with Reactive Evaporator
+title: Wood Reactive Evaporator for Selenium Recovery
 description: We developed and tested a wood-based reactive evaporator, which reduces the volume of the wastewater and recovers selenium at the same time.
 img: assets/img/background8.jpg
 importance: 8
